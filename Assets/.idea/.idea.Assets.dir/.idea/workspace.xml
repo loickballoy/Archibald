@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb69ef99-07a4-432a-84ff-28f3a794326e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prefab/Personnages/Seller.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Prefab/Personnages/Seller.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script/Seller/SellerManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Script/Seller/SellerManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SellingButtonManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SellingButtonManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/00/0019d83aa2c1fc0d9d17c6d84abef440" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/04/04c6ddd0a1d38dd54dd05fb2fadf710a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/06/0688036677b71f7485a7da61b9cc2055" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/0a/0ad9743d54b95dcc2c4c51cd709e2ed6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/11/11a9010dc66d4c8c11b6660341f00dff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/17/1779894eb82323bf712be66664bcb24f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/17/177a9b2cbfe3da1da6c891ee6cc493ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/17/17f283a32274f2cb52e7189795f05f4f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/18/18a59f24d836aefa76927ac1eb2c2bde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/24/24f0e06f604b59f73b9eaeb1ae9f4516" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/2e/2eb617466f8d94105b2baab3e6f08773" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/33/3314e2450f1be4a7486f20ac3eac8e3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/38/3819a4b848a6659e8dcddf42ee3b7d9b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/3d/3ddda4c21126832521713c159e9fe008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/44/44a9d2a74ac8028263c96ee61a053757" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/4c/4c285d1409ceff39a28ffd1f86eeeb49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/4e/4ec8e67d7ed4ddb6e0232f1694180b5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/53/53f071cfc22773ec10e6848b001ddc22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/55/55c3454e1288b233d990142ae059b887" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/5e/5e1135c9c21f55cb653008f594017672" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/6d/6dc8e86916e487feba9072883b53830c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/70/70560d348d0d5c2153d391c41a627b11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/72/72ad68ff43e8f2a377d016bcf6251e4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/7a/7a11095e6bf75fc1c69035a535bf2eb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/86/86e13c375ab2165349d87cd2e6f05ccb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/89/897ba537f2f1e1a9be33549a8702156f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/8a/8a2030a98996a87e0efc96ee7051a9f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/8b/8b96d09bdc261f3908136cacc45a3075" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/9a/9ac7ab9b5696145a760f6edf2faa2297" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/a2/a2488e847780e7bfef829de5ada01169" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/a9/a9b93d34f1b02d74d3110cdbbe947469" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/b0/b0dd3943cdda9182aadb275818e76d03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/b3/b35283c82d2678b3de8eadd59d3041cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/b3/b36154e08609c4a0828f62e2b482593d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/b7/b7798bd24d54eabd92beb47d2371362e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/ba/ba8c5f41ad39eaf82a090859c711969b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/c0/c062a240a7831f6bfb87aa830103dff5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/c5/c54c46e45adca52e8a26b059a81d32af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/c9/c91c3225aa371ae353c44d2bafaad897" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/d1/d1dbc7f5eb813e812847b18d993c6d6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/d3/d36d9a86b5262b58454e4665a55e2dc6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/d3/d3e2f468d9e35bdf7d5ae0306a290970" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/d8/d84025c163b22e783c39654767c11d7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/de/de336f38978cea336a08c02c2ef18757" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/e9/e9fdcabed27336cb3969204d3db83e49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/f3/f395f827702a60604c700ba59370cc6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/f4/f4897025fec73e2dd63d2359e0424218" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/Artifacts/fa/fa830e9e71fd42844e01b9e50ca79dc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/9dfb15-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/9dfb15-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Script/Didacticiel/InstructionManager3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Weapons/Tir.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Seller/SellerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Weapons/WeaponsCaracteristics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Bandit/TirMouvementBandit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Player/PlayerWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SellingImage.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Seller/Seller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/OnClickToKeyPress.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Object/CommonForAllObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Bandit/BanditHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Didacticiel/InstructionManager2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Player/Inventory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/ArmorsCaracteristics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/DialogueSystem/DialogueManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/DialogueSystem/DialogueTrigger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Script/Player/PlayerDash.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MoveBandit.cs" />
+        <option value="$PROJECT_DIR$/BanditDamage.cs" />
+        <option value="$PROJECT_DIR$/Scripts/BanditDamage.cs" />
+        <option value="$PROJECT_DIR$/Scripts/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Pause.cs" />
+        <option value="$PROJECT_DIR$/PlasmaMovement.cs" />
+        <option value="$PROJECT_DIR$/PickUpPlasma.cs" />
+        <option value="$PROJECT_DIR$/InstructionManager2.cs" />
+        <option value="$PROJECT_DIR$/Script/Bandit/TirMouvementBandit.cs" />
+        <option value="$PROJECT_DIR$/DidacticielEnding.cs" />
+        <option value="$PROJECT_DIR$/Script/Weapons/Tir.cs" />
+        <option value="$PROJECT_DIR$/PlayerCaracteristics.cs" />
+        <option value="$PROJECT_DIR$/Script/Player/PlayerWeapon.cs" />
+        <option value="$PROJECT_DIR$/Script/Didacticiel/InstructionManager3.cs" />
+        <option value="$PROJECT_DIR$/Seller.cs" />
+        <option value="$PROJECT_DIR$/SellerManager.cs" />
+        <option value="$PROJECT_DIR$/Script/Didacticiel/InstructionManager2.cs" />
+        <option value="$PROJECT_DIR$/Script/Seller/Seller.cs" />
+        <option value="$PROJECT_DIR$/Script/Bandit/BanditHealth.cs" />
+        <option value="$PROJECT_DIR$/SellerInventory.cs" />
+        <option value="$PROJECT_DIR$/SellingImage.cs" />
+        <option value="$PROJECT_DIR$/Script/Seller/SellerManager.cs" />
+        <option value="$PROJECT_DIR$/SellingButtonManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oX33Ez60lQyUqTogsQEqQsAUoT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb69ef99-07a4-432a-84ff-28f3a794326e" name="Default Changelist" comment="" />
+      <created>1613413954505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613413954505</updated>
+      <workItem from="1613413968194" duration="2461000" />
+      <workItem from="1613418928521" duration="1295000" />
+      <workItem from="1614424276493" duration="2618000" />
+      <workItem from="1614432348651" duration="725000" />
+      <workItem from="1615032109127" duration="617000" />
+      <workItem from="1618139348504" duration="4651000" />
+      <workItem from="1619013682616" duration="1400000" />
+      <workItem from="1619015114768" duration="1015000" />
+      <workItem from="1619430689069" duration="819000" />
+      <workItem from="1619521638152" duration="110000" />
+      <workItem from="1619521814173" duration="5451000" />
+      <workItem from="1623967412804" duration="2271000" />
+      <workItem from="1624196220585" duration="1072000" />
+      <workItem from="1624197422984" duration="1890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614432651773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.-405.1920.1040@0.0.1536.824" timestamp="1614432651773" />
+  </component>
+</project>

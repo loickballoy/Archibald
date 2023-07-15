@@ -1,0 +1,9 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scene/StartMenu.unity
+=======
+- path: Assets/Scene/SampleScene.unity
+>>>>>>> 001e01e0221a073f70ccae62f81cedc872febf4f
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

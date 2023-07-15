@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: d076356a5e51c6f49885b56473536988
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3672919800011366220
+    second: ThemeG1_0
+  - first:
+      213: 333044869283167203
+    second: ThemeG1_1
+  - first:
+      213: 4039434466341354940
+    second: ThemeG1_2
+  - first:
+      213: 204863703947172453
+    second: ThemeG1_3
+  - first:
+      213: -5782467448058097811
+    second: ThemeG1_4
+  - first:
+      213: 7005476929102305399
+    second: ThemeG1_5
+  - first:
+      213: -8455840931382590842
+    second: ThemeG1_6
+  - first:
+      213: 3017957849505392000
+    second: ThemeG1_7
+  - first:
+      213: 4908131105927802983
+    second: ThemeG1_8
+  - first:
+      213: -3787095291481523858
+    second: ThemeG1_9
+  - first:
+      213: 4843949367664995537
+    second: ThemeG1_10
+  - first:
+      213: -4971757932024741828
+    second: ThemeG1_11
+  - first:
+      213: 2544430442456250898
+    second: ThemeG1_12
+  - first:
+      213: -6680504000947207579
+    second: ThemeG1_13
+  - first:
+      213: -6085575989571300460
+    second: ThemeG1_14
+  - first:
+      213: -8521287424947480731
+    second: ThemeG1_15
+  - first:
+      213: 3460611708884608236
+    second: ThemeG1_16
+  - first:
+      213: -2223746586909980802
+    second: ThemeG1_17
+  - first:
+      213: -8577434933794481516
+    second: ThemeG1_18
+  - first:
+      213: -7853726887118349268
+    second: ThemeG1_19
+  - first:
+      213: 360755417922507923
+    second: ThemeG1_20
+  - first:
+      213: 6735303727301210134
+    second: ThemeG1_21
+  - first:
+      213: -1460973047546122615
+    second: ThemeG1_22
+  - first:
+      213: 8643725093829705947
+    second: ThemeG1_23
+  - first:
+      213: -7347718664224951169
+    second: ThemeG1_24
+  - first:
+      213: 7051954477865152516
+    second: ThemeG1_25
+  - first:
+      213: 305538278505434451
+    second: ThemeG1_26
+  - first:
+      213: 8349044932710621491
+    second: ThemeG1_27
+  - first:
+      213: 7692135917962846369
+    second: ThemeG1_28
+  - first:
+      213: 5683911919431161454
+    second: ThemeG1_29
+  - first:
+      213: 3383060922462274111
+    second: ThemeG1_30
+  - first:
+      213: -7710880234232554122
+    second: ThemeG1_31
+  - first:
+      213: 8841092873951187856
+    second: ThemeG1_32
+  - first:
+      213: 1524069704483248320
+    second: ThemeG1_33
+  - first:
+      213: 7348227133542681921
+    second: ThemeG1_34
+  - first:
+      213: -3131141269643240112
+    second: ThemeG1_35
+  - first:
+      213: 6494427087192284759
+    second: ThemeG1_36
+  - first:
+      213: 2116877483113371418
+    second: ThemeG1_37
+  - first:
+      213: -6526185480844198926
+    second: ThemeG1_38
+  - first:
+      213: 1458390102435814225
+    second: ThemeG1_39
+  - first:
+      213: -2910931711364193539
+    second: ThemeG1_40
+  - first:
+      213: 3023270219059320100
+    second: ThemeG1_41
+  - first:
+      213: 1102143842919700637
+    second: ThemeG1_42
+  - first:
+      213: -6682580315242870946
+    second: ThemeG1_43
+  - first:
+      213: -3644673802171151316
+    second: ThemeG1_44
+  - first:
+      213: -3022089269940798831
+    second: ThemeG1_45
+  - first:
+      213: -1270086069612692441
+    second: ThemeG1_46
+  - first:
+      213: -4007181166556861979
+    second: ThemeG1_47
+  - first:
+      213: -896029049198103601
+    second: ThemeG1_48
+  - first:
+      213: -426649595958092052
+    second: ThemeG1_49
+  - first:
+      213: -2875075029738275469
+    second: ThemeG1_50
+  - first:
+      213: -2099576448469021471
+    second: ThemeG1_51
+  - first:
+      213: -2388430252608665171
+    second: ThemeG1_52
+  - first:
+      213: -5983276547183264981
+    second: ThemeG1_53
+  - first:
+      213: -4299878000939716525
+    second: ThemeG1_54
+  - first:
+      213: -7350702746847197408
+    second: ThemeG1_55
+  - first:
+      213: -899840406338407419
+    second: ThemeG1_56
+  - first:
+      213: 8342100841954867875
+    second: ThemeG1_57
+  - first:
+      213: 6640013547050223614
+    second: ThemeG1_58
+  - first:
+      213: -7484732864098960618
+    second: ThemeG1_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThemeG1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1d202915d8f230800000000000000
+      internalID: 3672919800011366220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb3e74b863f9400800000000000000
+      internalID: 333044869283167203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdfebbce34fe0830800000000000000
+      internalID: 4039434466341354940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a542d0472d7d200800000000000000
+      internalID: 204863703947172453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fcc392e7c80cfa0800000000000000
+      internalID: -5782467448058097811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77856518624783160800000000000000
+      internalID: 7005476929102305399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6828bbf4971d6aa80800000000000000
+      internalID: -8455840931382590842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085eede9ca0f1e920800000000000000
+      internalID: 3017957849505392000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7603fd78c3f2d1440800000000000000
+      internalID: 4908131105927802983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6970b4b5e8817bc0800000000000000
+      internalID: -3787095291481523858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc66a9194a293340800000000000000
+      internalID: 4843949367664995537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c304f689084c00bb0800000000000000
+      internalID: -4971757932024741828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a7b46a102af4320800000000000000
+      internalID: 2544430442456250898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56247f681051a43a0800000000000000
+      internalID: -6680504000947207579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThemeG1_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d4f751e0bb8ba0800000000000000
+      internalID: -6085575989571300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

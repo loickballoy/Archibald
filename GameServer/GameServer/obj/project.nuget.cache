@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tpTkGxNf9ulQALBAYKhqTcfqF/aRq2v93INJWbJdLfnQAMwELK7buUeOI4g7BhJ0GZHR9hUxN/lrx2/sqxxbNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BALLOY\\Desktop\\Archibald\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BALLOY\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

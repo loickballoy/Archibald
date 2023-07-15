@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b25ab317-e323-4404-be9b-9d2cafab3cd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArmorsCaracteristics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArmorsCaracteristics.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayerCaracteristics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayerCaracteristics.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeaponsCaracteristics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeaponsCaracteristics.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/10/103fd6eb4c1dad3b72894af0d44960c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/11/11626fe536bae2ed5a9937267eec3e22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/18/18433467befd6dbdb393e607b13369a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/1e/1e98df598c644f2b8d5b9a4be6ac30ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/23/235740b448da3cdbb5c586e6baa8e964" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/26/262b6dc58f3eb411c43b60f341bcf136" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/38/389b3ae7221a5b69770f4fabb0d49e4f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/3e/3e6e9485cc544ad31c9c47f258e5dee8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/3e/3ed76ac5af61aae584784a506f88f79a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/50/50681105d0bf44bd8417147e288efea1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/52/5219090432688fe50c86613cc2c44a63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/53/53aa1c63729e8d81b5bc1a7d33f18ffa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/57/57d82d4c6f333a3c2c3e2a8e141fff73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/64/64be1a5d8998a5228e9e7154bf5213b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/76/76f4fcf9e2885d909b190132e0b3b7cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/7e/7eedc4d4ea1d6dc39b7ffc83a71a9a2e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/81/81912bbc30fe06823ca4c406d3e96df0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/84/84bbd36258579a83de4ff1bb6296eb64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/85/85ee6c9e3d4733fea833ac9458934b50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/89/89fd641ae3cbc1345a62f22e8f1ade01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/8a/8a299e1143d18170e8b2780711c94069" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/8a/8a8da87b1dbcb4e6853dc56317f12edb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/8b/8bb9efe565ec9a062e62d9bb309a2b32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/8f/8f781735db1f981caf1e356118d3f972" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/99/992fbb0cb298c7f813fc8e4f26821fd6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/9c/9c43fac0eb7f086fbbb67e61bae9f8dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/a2/a26048642b25a2888972494f5d311801" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/a2/a2c29028a4c34d096b4d3516960a218c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/a2/a2fb7efebafe8c18f216d76e1c94e265" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/a9/a9ce2758a9867c15bf0bf33fe1a4a235" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/aa/aa44f1bd386572938e890bc3514a675b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/b0/b0f993756866c4ec2fd4b61b732abed6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/b2/b2615a8bd4bf0f438b9db2e168e83449" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/b8/b819451f1fa1847c5f88faaef86d6298" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/c1/c1f9f02a0b0d7b32568aaff41358880a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/cc/cc1f2e39cf9e28b5a85f782a04037b74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/f2/f231875843b4073681b148f7bdeed442" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/26eca4-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/26eca4-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Canvas.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coin/PickUpCoins.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Presentation Madagascars/Lalao/Assets/Script/Inventory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Projet perso/UNITY/Jeux Test 1.1/Jeux Test 2.0/Assets/Script/Moveplayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Player/Inventory.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BanditHealth.cs" />
+        <option value="$PROJECT_DIR$/PlayerRotation.cs" />
+        <option value="$PROJECT_DIR$/Game.cs" />
+        <option value="$PROJECT_DIR$/PlayerShot.cs" />
+        <option value="$PROJECT_DIR$/Tir.cs" />
+        <option value="$PROJECT_DIR$/Inventory.cs" />
+        <option value="$PROJECT_DIR$/TirMouvement.cs" />
+        <option value="$PROJECT_DIR$/../BolterMovement.cs" />
+        <option value="$USER_HOME$/Desktop/Presentation Madagascars/Lalao/Assets/Script/Inventory.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pHzpArRwVI2OEbOTdcMZFbE3bs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b25ab317-e323-4404-be9b-9d2cafab3cd7" name="Default Changelist" comment="" />
+      <created>1614854989255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614854989255</updated>
+      <workItem from="1614855000021" duration="2345000" />
+      <workItem from="1614857824830" duration="4777000" />
+      <workItem from="1615197584523" duration="576000" />
+      <workItem from="1619016848192" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614855445578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614855445578" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b13bb35810f3bbe418d4cf282a3bf543, type: 3}
+  m_Name: New Enemy Profile
+  m_EditorClassIdentifier: 
+  Hp: 1000
+  CharmHp: 0
+  EnemyVisual: {fileID: 0}
+  EnemiesAttacks:
+  - {fileID: 4824144754901450174, guid: 6ed2415975b4b05459454142a8a8f807, type: 3}
+  - {fileID: 9147974306885025678, guid: e7ab0c4e2ed6d0543bd4215203374f14, type: 3}
+  - {fileID: 2474909267233738759, guid: 8aa416ec6592acb439a32553d2bf11f9, type: 3}

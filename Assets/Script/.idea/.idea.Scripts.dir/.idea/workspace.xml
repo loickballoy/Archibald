@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1396675-ed5f-43dd-81e9-445025451a82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayerWalk.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerWalk.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/19/198b5f8f7df835956c08f44bde74ad58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/1f/1ff200b53b66da5c7ba74cc62b1e159f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/2d/2d7a427ae680a4eb94523073a618831a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/4f/4f8b551db41b9c1a99432fc2f60e2b8e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/82/823248e0bc371a5a73c25d8e4ffe086a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/9f/9f64b844a379a56bfe9aa85e6fc9f50e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/ad/aded3d2d88f2454a99da2a5ae020821b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/b1/b14a2eba5eba3358e21e669e725b92bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/c1/c168aef070c09cac1906573263d23728" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Artifacts/fa/fa05d907c4bbeba9ea7c81f36bda0c5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/SourceAssetDB" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PlayerRotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CameraFollow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MoveBandit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PickUpCoins2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Canvas.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GenerateNextScene.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnClickToKeyPress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PickUpStimpack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PickUpObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerHealth.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Projet perso/UNITY/Jeux Test 1.1/Jeux Test 2.0/Assets/Script/BatonDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Charactèreclass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerStamina.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BanditHealth.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PickUpCoins.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerWalk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Staminabar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PickUpCoins5.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Healthbar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TirMouvement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Game.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BanditDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../PlayerShot.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Charactèreclass.cs" />
+        <option value="$PROJECT_DIR$/Healthbar.cs" />
+        <option value="$PROJECT_DIR$/PickUpObject.cs" />
+        <option value="$PROJECT_DIR$/PickUpCoins.cs" />
+        <option value="$PROJECT_DIR$/Staminabar.cs" />
+        <option value="$PROJECT_DIR$/PickUpCoins2.cs" />
+        <option value="$PROJECT_DIR$/PickUpCoins5.cs" />
+        <option value="$PROJECT_DIR$/PickUpStimpack.cs" />
+        <option value="$PROJECT_DIR$/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Canvas.cs" />
+        <option value="$PROJECT_DIR$/OnClickToKeyPress.cs" />
+        <option value="$PROJECT_DIR$/DialogueManager.cs" />
+        <option value="$PROJECT_DIR$/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/PlayerRotation.cs" />
+        <option value="$PROJECT_DIR$/DontDestroy.cs" />
+        <option value="$PROJECT_DIR$/GenerateNextScene.cs" />
+        <option value="$PROJECT_DIR$/PlayerAttack.cs" />
+        <option value="$PROJECT_DIR$/../StillPosition.cs" />
+        <option value="$PROJECT_DIR$/MoveBandit.cs" />
+        <option value="$PROJECT_DIR$/BanditDamage.cs" />
+        <option value="$PROJECT_DIR$/BanditHealth.cs" />
+        <option value="$PROJECT_DIR$/PlayerStamina.cs" />
+        <option value="$PROJECT_DIR$/PlayerWalk.cs" />
+        <option value="$PROJECT_DIR$/../Tir.cs" />
+        <option value="$PROJECT_DIR$/Game.cs" />
+        <option value="$PROJECT_DIR$/../TirMouvement.cs" />
+        <option value="$PROJECT_DIR$/../PlayerShot.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nbuJSYPeLZLFk5VRzAY97Bzq7B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1396675-ed5f-43dd-81e9-445025451a82" name="Default Changelist" comment="" />
+      <created>1611671045513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611671045513</updated>
+      <workItem from="1611671055367" duration="79000" />
+      <workItem from="1611671343672" duration="4382000" />
+      <workItem from="1611683254617" duration="4493000" />
+      <workItem from="1611861638941" duration="591000" />
+      <workItem from="1611863593038" duration="669000" />
+      <workItem from="1612174598265" duration="706000" />
+      <workItem from="1612198522634" duration="1045000" />
+      <workItem from="1612201081767" duration="3194000" />
+      <workItem from="1612206052577" duration="214000" />
+      <workItem from="1612206442300" duration="132000" />
+      <workItem from="1612206968645" duration="729000" />
+      <workItem from="1612207884907" duration="1816000" />
+      <workItem from="1612287490255" duration="267000" />
+      <workItem from="1612294528871" duration="42000" />
+      <workItem from="1612298800885" duration="1982000" />
+      <workItem from="1612447865919" duration="358000" />
+      <workItem from="1612448323127" duration="6306000" />
+      <workItem from="1612990822365" duration="275000" />
+      <workItem from="1613299282314" duration="2892000" />
+      <workItem from="1613337408556" duration="2485000" />
+      <workItem from="1613425167287" duration="1931000" />
+      <workItem from="1614362983716" duration="647000" />
+      <workItem from="1614465080440" duration="1041000" />
+      <workItem from="1614523268548" duration="1433000" />
+      <workItem from="1614532290528" duration="1970000" />
+      <workItem from="1614595598232" duration="105000" />
+      <workItem from="1614595857302" duration="2834000" />
+      <workItem from="1614785658424" duration="28000" />
+      <workItem from="1614788340475" duration="2049000" />
+      <workItem from="1614792977810" duration="4697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
